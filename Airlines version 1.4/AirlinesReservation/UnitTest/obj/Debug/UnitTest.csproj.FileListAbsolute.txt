@@ -1,0 +1,7 @@
+C:\Users\Yeşim\Documents\Visual Studio 2012\Projects\AirlinesReservation\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Yeşim\Documents\Visual Studio 2012\Projects\AirlinesReservation\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Yeşim\Documents\Visual Studio 2012\Projects\AirlinesReservation\UnitTest\bin\Debug\AirlinesReservation.exe
+C:\Users\Yeşim\Documents\Visual Studio 2012\Projects\AirlinesReservation\UnitTest\bin\Debug\AirlinesReservation.pdb
+C:\Users\Yeşim\Documents\Visual Studio 2012\Projects\AirlinesReservation\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Yeşim\Documents\Visual Studio 2012\Projects\AirlinesReservation\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Yeşim\Documents\Visual Studio 2012\Projects\AirlinesReservation\UnitTest\obj\Debug\UnitTest.pdb

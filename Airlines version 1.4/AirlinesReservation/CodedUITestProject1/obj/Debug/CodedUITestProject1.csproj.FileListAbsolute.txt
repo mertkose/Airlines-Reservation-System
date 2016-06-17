@@ -1,0 +1,5 @@
+C:\Users\Yeşim\Documents\Visual Studio 2012\Projects\AirlinesReservation\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+C:\Users\Yeşim\Documents\Visual Studio 2012\Projects\AirlinesReservation\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+C:\Users\Yeşim\Documents\Visual Studio 2012\Projects\AirlinesReservation\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Yeşim\Documents\Visual Studio 2012\Projects\AirlinesReservation\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+C:\Users\Yeşim\Documents\Visual Studio 2012\Projects\AirlinesReservation\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
